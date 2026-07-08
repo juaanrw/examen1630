@@ -1,0 +1,12 @@
+diff --git a/README.md b/README.md
+index 7bd6302..a3567ed 100644
+--- a/README.md
++++ b/README.md
+@@ -490,4 +490,6 @@ versiones usadas actualmente se corresponden a las siguientes:
+ * Python = 3.9
+ * Vue=3
+ * Bootstrap=5.2
+-* selenium = 4.7.2
++* selenium = 4.7.2 
++
++(Cambio para parche)

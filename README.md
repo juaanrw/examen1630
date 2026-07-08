@@ -490,4 +490,6 @@ versiones usadas actualmente se corresponden a las siguientes:
 * Python = 3.9
 * Vue=3
 * Bootstrap=5.2
-* selenium = 4.7.2
+* selenium = 4.7.2 
+
+(Cambio para parche)
